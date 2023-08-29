@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: inline;
+    justify-content: center;
+}
+
+
+
+div {
+    display: flex;
+    align-items: center;
+    background-color: rgba(7, 104, 90, 0.355);
+}
+
+h1 {
+    color: darkblue;
+    display: inline;
+}
+
+td {
+    background-color: lightgray;
+    padding: 1em;
+    border: 1px solid black;
+}
+
+h2 {
+    color: rebeccapurple;
+}
+
+
+h1 {
+    text-transform: uppercase;
+    
+    
+    padding: 1%;
+    margin: 0;
+}
